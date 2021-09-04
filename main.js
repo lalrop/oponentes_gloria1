@@ -56,7 +56,7 @@ $(function () {
         $("#12").append(5);
         $("#13").append(array_potFren[0]);
         $("#14").append(array_potFren[1]);
-        $("#15").append(array_potFren[1]*12)
+        $("#15").append(array_potFren[0]*12)
     })
 })
 
